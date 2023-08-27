@@ -1,0 +1,90 @@
+
+.weblogo{
+    width: 65px;
+}
+.navbar{
+    background: #0000009c!important;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #fff!important;
+    font-weight: 600;
+    font-size: 20px;
+}
+.img12{
+    width: 80%;
+}
+.a{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.b{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 30px;
+    text-align: justify;
+    font-size: 16px;
+}
+.c{
+    background: url("https://www.firstfiddle.in/assets/images/gamebanner.jpg");
+    width: 100%;
+}
+.d{
+    padding: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+    color: #fff;
+    margin-top: 100px;
+}
+.e{
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: white;
+    margin-bottom: 100px;
+}
+.f{
+    font-size: 15px;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.cn{
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    background: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+footer .h2{
+        font-family: 'prague';
+        font-size: 2rem;
+        line-height: 50px;
+        letter-spacing: 3px;
+        color: #fff;
+}
+.p{
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+ .v{
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+   
+
+}
+.u{
+    background-color: #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}

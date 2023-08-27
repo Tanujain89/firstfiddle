@@ -1,0 +1,188 @@
+
+.weblogo{
+    width: 65px;
+}
+.moblogo{
+    display: none;
+}
+@media (max-width: 700px){
+    .moblogo{
+        display: block;
+    }
+    .weblogo{
+        display: none;
+    }
+    .navbar{
+        background: #fcb01b !important;
+    }
+}
+.navbar{
+    background: #0000009c;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #fff!important;
+    font-weight: 600;
+    font-size: 20px;
+}
+.box{
+    position: relative;
+    font-family: "Helvetica";
+}
+.b{
+    position: absolute;
+    color: #fff;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 45%;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-size: 70px;
+    font-weight: 500;
+}
+
+@media (max-width:400px){
+    .box{
+        margin-top: 20%;
+    }
+}
+@media(max-width:700px){
+    .b{
+        font-size: 30px;
+    }
+}
+.c{
+    padding-top: 0% !important;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-align: justify;
+}
+.d{
+    padding-inline: 42px;
+    margin-bottom: 33px;
+}
+.name1{
+    margin-top: -59px;
+    color: white;
+    font-size: 24px;
+}
+.position{
+    margin-top: -30px;
+    color: white;
+}
+.e{
+    position: absolute;
+
+}
+
+.f{
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+/* press release*/
+.icon{
+    width: 25px;
+    margin-right: 0.5rem;
+    margin-top: -0.35rem
+}
+.offline{
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+
+}
+.head{
+    border-bottom: 2px solid #aba7a7;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.tble{
+        box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19) !important;
+       
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-top: 60px;
+        margin-bottom: 70px;
+        
+}
+@media(max-width:700px){
+    .tble{
+        box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19) !important;
+        margin-left: 15px !important;
+        margin-right: 15px !important;
+        margin-bottom: 15px !important;
+    }
+}
+.p{
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 1px;
+}
+.at{
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
+.ar{
+    color: #060606;
+    text-decoration: none;
+    font-size: 13px;
+}
+.over{
+    height: 400px;
+    overflow: scroll;
+}
+
+footer{
+    background: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+footer .h2{
+        font-family: 'prague';
+        font-size: 2rem;
+        line-height: 50px;
+        letter-spacing: 3px;
+        color: #fff;
+}
+.pf{
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+ .v{
+    font-size: 13px;
+    color: #fff;
+    text-decoration: none;
+   
+
+}
+.u{
+    background-color: #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+/* carrer css */
+
+.apply{
+    font-family: 'prague';
+    letter-spacing: 3px;
+    font-size: 37px;
+    font-weight: 600;
+}
+.content{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 25px;
+    font-size: 18px;
+    font-weight: 100;
+}
+.form{
+    margin-bottom: 10px;
+}
